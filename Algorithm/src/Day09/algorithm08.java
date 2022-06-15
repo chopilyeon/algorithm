@@ -14,6 +14,7 @@ public class algorithm08 {
 			
 		
 			n++;
+			System.out.println(n);
 		}
 
 	}
