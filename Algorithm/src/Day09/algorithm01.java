@@ -8,7 +8,7 @@ public class algorithm01 {
 
 		Scanner sc = new Scanner(System.in);
 		
-		int score=sc.nextInt();
+		int score=int ;
 		if(score>=90 && score<=100) {
 			System.out.println("A");
 		}else if(score>=80 && score <=89) {
