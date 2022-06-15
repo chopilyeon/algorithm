@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\wogml\Documents\JavaProject\algorithms\.metadata\.plugins\org.eclipse.jdt.core
-3978151345.index
-2975814660.index
-1865797976.index
